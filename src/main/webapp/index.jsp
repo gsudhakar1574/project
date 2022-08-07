@@ -9,7 +9,7 @@
 <body>
 
 <div>
-	<h2 >Spring Boot - Student Registation</h2>
+	<h2 >Spring Boot - Student Registation Form</h2>
 	
 	<tr>
 		<div align = "left" >		   
